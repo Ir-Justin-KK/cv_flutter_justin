@@ -34,7 +34,7 @@ Technologies utilisées
 4. Page Contact
 ![Page contact](contact.png)
 
-5. La video
+
 ![Demonstration](video.mp4)
 
 
