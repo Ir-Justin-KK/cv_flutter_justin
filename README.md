@@ -35,7 +35,7 @@ Technologies utilisées
 ![Page contact](contact.png)
 
 
-![Demonstration](video.mp4)
+![Démonstration](./video.mp4)
 
 
 Auteur
